@@ -1,4 +1,4 @@
-**# Exercícios do URI
+# Exercícios do URI
 
 Este repositório tem como finalidade arquivar meus códigos referente a cada problema fornecido pelo URI. 
 
@@ -12,5 +12,4 @@ Ele é um sistema de julgamento para que alunos possam resolver problemas matem�
 The main goal of the project is to provide programming practice and knowledge sharing."
 
 
-
- # Meu perfil: https://www.urionlinejudge.com.br/judge/pt/profile/485308
+# Meu perfil: https://www.urionlinejudge.com.br/judge/pt/profile/485308
